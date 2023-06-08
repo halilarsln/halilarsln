@@ -1,5 +1,5 @@
 ### Hi there 👋# 💫 About Me:
-MERHABA👋, ben Halil<br><br>Bilgisayar Mühendisliği Öğrencisi<br>🌱Şu anda c# ve sql öğreniyorum.<br>📫Bana nasıl ulaşabilirsiniz halilarslan.info@gmail.com
+MERHABA👋, Ben Halil<br><br>Makine Mühendisliği Öğrencisi<br>🌱Şu anda C# ve SQL öğreniyorum.<br>📫Bana nasıl ulaşabilirsiniz halilarslan.info@gmail.com
 
 
 ## 🌐 Socials:
